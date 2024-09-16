@@ -1,0 +1,12 @@
+¿Cómo es que se instalan paquetes con yarn?
+Para instalar paquetes usando yarn usamos el comando yarn add seguido del nombre del paquete.
+yarn add (nombre del paquete). Esto instalará el paquete en en proyecto y actualizará el archivo package.json y el archivo yarn.lock.
+
+¿Cómo es que se borran paquetes con yarn?
+para eliminar paquetes usando yarn usamos el comando yarn remove nombre-del-paquete
+Este comando eliminará el paquete del archivo package.json y del directorio node_modules.
+
+¿Por qué debería de usar la ramificación en proyectos?
+Usar ramas mejora la estabilidad, la colaboración y la organización del código en proyectos. Permite desarrollar nuevas características, 
+corregir errores y realizar experimentos de manera segura sin arriesgar el código principal, y facilita la integración de múltiples contribuciones
+en un solo proyecto.
